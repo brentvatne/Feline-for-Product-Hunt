@@ -5,7 +5,9 @@
 <a href="https://play.google.com/store/apps/details?id=com.arjunkomath.product_hunt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" width="175" /></a>
 
 ## :rice_scene: Images
-![Image 1](https://lh3.googleusercontent.com/T69SCGNcRWVKR1btjARZv_0AFsDOEwSmLKOeLWOABmvs7H3Ibmz7h6LdJwwdyKL7KCqE=h310-rw) ![Image 2](https://lh3.googleusercontent.com/bWdoMQegQB7e7gf83tiyRL2qZQRMWdmgzR2Qtq4OuyRVncMzwl5v7DMhEO9IxZPKIWQ=h310-rw)
+![Image 1](https://lh3.googleusercontent.com/PkgX6Cd9TJybClovGE5hdMboPGVTza5KgQIkn7jSzlCiIJaz8uX_xgrUXkdg3a7VDuU=h310-rw)
+![Image 2](https://lh3.googleusercontent.com/1UCDXlxJ-XuYjBHpNgjFh8jRIMx41rhc-50mqQ9K1AKcxhtTNQ1JuaBZ0eh-fJJnuw=h310-rw)
+![Image 2](https://lh3.googleusercontent.com/JVgFWVJaymxh747UF0eB8KFDGffucdsltbZAz0JyLkhIPyJvCABnCM7Ih7CiQycCHA=h310-rw)
 
 ## :exclamation: Known Issues
 Unfortunately we currently don't have write-access to the Product Hunt API. You cannot vote/comment on a post.
@@ -16,7 +18,6 @@ Feature Request, Bugs and Ideas can be added [here.](https://github.com/arjunkom
 ## :two_hearts: Thanks
 * [Product Hunt Team :)](https://www.producthunt.com/about)
 * [Facebook - React Native](https://facebook.github.io/react-native/)
-* [Microsoft - CodePush](http://microsoft.github.io/code-push/)
 * [JetBrains - WebStorm IDE](https://www.jetbrains.com/)
 
 ## :heart_eyes: About Author
