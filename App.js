@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
 import { AppLoading, Constants, Font } from 'expo';
-import App from './app/app';
+import App from './src/app';
 
 export default class Feline extends Component {
   state = {
@@ -20,7 +20,7 @@ export default class Feline extends Component {
     });
 
     this.setState({ ready: true });
-  }
+  };
 
   render() {
     if (!this.state.ready) {
@@ -30,7 +30,7 @@ export default class Feline extends Component {
     return (
       <View style={styles.container}>
         <View style={styles.statusBarUnderlay} />
-        <App/>
+        <App />
       </View>
     );
   }
