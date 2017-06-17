@@ -4,6 +4,8 @@
 ## Download
 <a href="https://play.google.com/store/apps/details?id=com.arjunkomath.product_hunt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" width="175" /></a>
 
+## <a href="https://play.google.com/apps/testing/com.arjunkomath.product_hunt">Join Beta Testing</a>
+
 ## Images
 ![Image 1](https://lh3.googleusercontent.com/PkgX6Cd9TJybClovGE5hdMboPGVTza5KgQIkn7jSzlCiIJaz8uX_xgrUXkdg3a7VDuU=h310-rw)
 ![Image 2](https://lh3.googleusercontent.com/1UCDXlxJ-XuYjBHpNgjFh8jRIMx41rhc-50mqQ9K1AKcxhtTNQ1JuaBZ0eh-fJJnuw=h310-rw)
