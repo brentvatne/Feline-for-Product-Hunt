@@ -12,21 +12,21 @@
   "main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
   "dependencies": {
     "expo": "17.0.0",
-    "react": "16.0.0-alpha.6",
-    "react-native": "^0.44.0",
     "mobx": "^3.1.11",
     "mobx-react": "^4.2.1",
     "moment": "^2.18.1",
+    "react": "16.0.0-alpha.6",
+    "react-native": "^0.44.0",
     "react-native-parsed-text": "^0.0.18",
     "react-native-select-multiple": "^1.0.4",
     "react-navigation": "^1.0.0-beta.11"
   },
   "devDependencies": {
+    "jest-expo": "1.0.3",
     "react-native-scripts": "0.0.31",
-    "jest-expo": "1.0.2",
     "react-test-renderer": "16.0.0-alpha.6"
   },
   "jest": {
-    "preset": "expo"
+    "preset": "jest-expo"
   }
 }
