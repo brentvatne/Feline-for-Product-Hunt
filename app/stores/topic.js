@@ -102,6 +102,7 @@ class Store {
                         // }
                     })
                     .catch((err) => {
+                      console.log(err);
                         if (err) {
                             ToastAndroid.show('Make sure your device is connected to the Internet', ToastAndroid.LONG);
                         }

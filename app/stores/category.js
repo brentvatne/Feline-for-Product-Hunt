@@ -149,7 +149,7 @@ class Store {
      * Get Auth Token
      * @returns {*|Promise.<TResult>}
      */
-    getAuthToken() {
+  getAuthToken() {
         return AsyncStorage
             .getItem('access_token')
             .then((access_token) => {
@@ -170,10 +170,12 @@ class Store {
                             "grant_type": 'client_credentials'
                         })
                     };
+
                     return fetch('https://api.producthunt.com/v1/oauth/token', requestObj)
                         .then((response) => response.json())
                         .then((responseData) => {
                             this.access_token = responseData.access_token;
+                            console.log({responseData});
                             try {
                                 AsyncStorage.setItem('access_token', responseData.access_token);
                             } catch (error) {
@@ -185,7 +187,7 @@ class Store {
                             console.log(err);
                         });
                 }
-            })
+            });
     }
 
     /**
@@ -220,7 +222,8 @@ class Store {
                     })
                     .catch((err) => {
                         if (err) {
-                            ToastAndroid.show('Make sure your device is connected to the Internet', ToastAndroid.LONG);
+                            console.log(err);
+                            // ToastAndroid.show('Make sure your device is connected to the Internet', ToastAndroid.LONG);
                         }
                     });
             });

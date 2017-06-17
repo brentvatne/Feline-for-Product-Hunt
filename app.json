@@ -1,4 +1,13 @@
 {
   "name": "feline",
-  "displayName": "Feline for Product Hunt"
+  "displayName": "Feline for Product Hunt",
+  "expo": {
+    "sdkVersion": "17.0.0",
+    "slug": "feline",
+    "description": "A beautiful, unofficial Android app for Product Hunt. http://feline.techulus.in/",
+    "icon": "./assets/images/icon.png",
+    "loading": {
+      "icon": "./assets/images/icon.png"
+    }
+  }
 }
