@@ -1,13 +1,17 @@
 <img src="https://lh3.googleusercontent.com/MCoiCCwUan0dxzqRR_Mrr7kO308roYdI2aTsIpUGYWzUmpJT1-R2_J04weQKFEd3Mg=w300-rw" width="75">
 
+Note from Brent (not the original creator of the project): This is a fork of the original project and it uses CRNA. I also purposefully ignore my ProductHunt app API credentials so this is easier for you to play with.
+
+To try it out, [check it out on Expo](https://expo.io/@community/feline) or clone this repo, run `yarn` and then `yarn start`.
+
+----------
+
+# From the original repository
+
 # Feline for Product Hunt (v2)
 ### A beautiful, Open Source unofficial [Android app](https://play.google.com/store/apps/details?id=com.arjunkomath.product_hunt) for [Product Hunt](https://www.producthunt.com/)
 
-### <a href="https://play.google.com/apps/testing/com.arjunkomath.product_hunt">Join Beta Testing</a>
-### <a href="https://expo.io/@community/feline">View on Expo</a>
-
-----------
-## Download
+## Download from the Play Store
 <a href="https://play.google.com/store/apps/details?id=com.arjunkomath.product_hunt&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-AC-global-none-all-co-pr-py-PartBadges-Oct1515-1"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/apps/en-play-badge.png" width="175" /></a>
 
 ## Images
