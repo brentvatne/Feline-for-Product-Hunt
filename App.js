@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
-import { AppLoading, Constants, Font } from 'expo';
+import { Asset, AppLoading, Constants, Font } from 'expo';
 import App from './src/app';
 
 export default class Feline extends Component {
@@ -18,6 +18,11 @@ export default class Feline extends Component {
       SFRegular: require('./assets/fonts/SFRegular.ttf'),
       SFThin: require('./assets/fonts/SFThin.ttf'),
     });
+
+    await Promise.all([
+      Asset.fromModule(require('./assets/images/icon.png')).downloadAsync(),
+      Asset.fromModule(require('./assets/images/row_bag.png')).downloadAsync(),
+    ]);
 
     this.setState({ ready: true });
   };
